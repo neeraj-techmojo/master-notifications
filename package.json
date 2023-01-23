@@ -1,0 +1,19 @@
+{
+  "name": "live-casino-websocket",
+  "version": "1.0.0",
+  "description": "Live casino Websocket For Feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Techmojo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "pubsub-ws": "^1.0.3",
+    "redis": "^3.1.0",
+    "ws": "^8.8.0"
+  }
+}
